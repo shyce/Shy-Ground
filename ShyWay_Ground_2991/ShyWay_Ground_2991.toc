@@ -2,7 +2,7 @@
 ## Title: |cff3373ffS|r|cff29b3ffh|r|cff73f2ffy|r|cffffffffWay|r Ground: Zephras Isle
 ## Notes: Ground data for routes in Zephras Isle. Needs Shy; loads only while you're there.
 ## Author: Shyce Cream
-## Version: 5.0.5
+## Version: 5.0.6
 ## X-Date: 2026-11-15
 ## IconTexture: Interface\AddOns\ShyWay\Media\ShyGround
 ## LoadOnDemand: 1
