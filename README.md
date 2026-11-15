@@ -1,5 +1,13 @@
 # Shy Ground
 
+<p align="center">
+  <img alt="version 5.0.5" src="https://img.shields.io/badge/version-5.0.5-29b3ff">
+  <a href="https://github.com/shyce/Shy"><img alt="needs Shy" src="https://img.shields.io/badge/needs-Shy-3373ff"></a>
+  <img alt="WoW Forever 1.60.1" src="https://img.shields.io/badge/WoW_Forever-1.60.1-f4a623">
+  <a href="https://www.curseforge.com/wow/addons/shy-ground"><img alt="CurseForge get it" src="https://img.shields.io/badge/CurseForge-get_it-f16436?logo=curseforge&logoColor=white"></a>
+  <a href="LICENSE.txt"><img alt="license GPL-3.0" src="https://img.shields.io/badge/license-GPL--3.0-3373ff"></a>
+</p>
+
 **Needs [Shy](https://github.com/shyce/Shy).** This is only map data, with nothing to see or set up, and it does
 nothing on its own.
 
