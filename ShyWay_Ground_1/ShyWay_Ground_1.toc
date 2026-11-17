@@ -2,8 +2,8 @@
 ## Title: |cff3373ffS|r|cff29b3ffh|r|cff73f2ffy|r|cffffffffWay|r Ground: Kalimdor
 ## Notes: Routes in Kalimdor that follow the terrain. Needs Shy; loads only while you're there.
 ## Author: Shyce Cream
-## Version: 5.1.4
-## X-Date: 2026-11-16
+## Version: 5.1.5
+## X-Date: 2026-11-17
 ## IconTexture: Interface\AddOns\ShyWay\Media\ShyGround
 ## LoadOnDemand: 1
 ## Dependencies: ShyWay
