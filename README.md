@@ -1,7 +1,7 @@
 # Shy Ground
 
 <p align="center">
-  <img alt="version 5.1.5" src="https://img.shields.io/badge/version-5.1.5-29b3ff">
+  <img alt="version 5.1.6" src="https://img.shields.io/badge/version-5.1.6-29b3ff">
   <a href="https://github.com/shyce/Shy"><img alt="needs Shy" src="https://img.shields.io/badge/needs-Shy-3373ff"></a>
   <img alt="WoW Forever 1.60.1" src="https://img.shields.io/badge/WoW_Forever-1.60.1-f4a623">
   <a href="https://www.curseforge.com/wow/addons/shy-ground"><img alt="CurseForge get it" src="https://img.shields.io/badge/CurseForge-get_it-f16436?logo=curseforge&logoColor=white"></a>
