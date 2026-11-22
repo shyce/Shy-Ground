@@ -1,8 +1,8 @@
 ## Interface: 16001
 ## Title: |cff3373ffS|r|cff29b3ffh|r|cff73f2ffy|r|cffffffffWay|r Ground: Zephras Isle
-## Notes: Routes in Zephras Isle that follow the terrain. Needs Shy; loads only while you're there.
+## Notes: Routes in Zephras Isle that follow the terrain. Needs ShyUI; loads only while you're there.
 ## Author: Shyce Cream
-## Version: 5.2.5
+## Version: 5.2.7
 ## X-Date: 2026-11-22
 ## IconTexture: Interface\AddOns\ShyWay\Media\ShyGround
 ## LoadOnDemand: 1
