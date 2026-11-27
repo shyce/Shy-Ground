@@ -2,7 +2,7 @@
 ## Title: |cff3373ffS|r|cff29b3ffh|r|cff73f2ffy|r|cffffffffWay|r Ground: Eastern Kingdoms
 ## Notes: Routes in Eastern Kingdoms that follow the terrain. Needs ShyUI; loads only while you're there.
 ## Author: Shyce Cream
-## Version: 5.2.14
+## Version: 5.2.16
 ## X-Date: 2026-11-26
 ## IconTexture: Interface\AddOns\ShyWay\Media\ShyGround
 ## LoadOnDemand: 1
